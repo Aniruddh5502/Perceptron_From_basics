@@ -36,7 +36,7 @@ int main()
 
     // ====================================================================================================
     // Making it a 2 layer 10, 10 node Neural Network with no activation function so that it can predict  ||
-    // the exact value which is no bound with any range                                                   ||                        ||
+    // the exact value which is no bound with any range                                                   ||                        
     // ====================================================================================================
 
     std::vector<std::vector<float>> w1 = csv_to_matrix("w1.1");
